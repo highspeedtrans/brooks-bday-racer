@@ -5,7 +5,10 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
+#don't ignore build directory, so we can host the playable game on GitHub Pages
+#/[Bb]uild/
+#do ignore build-local directory, so we don't keep random builds in the repo
+/[Bb]uild-local/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
