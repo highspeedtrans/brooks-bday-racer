@@ -4168,9 +4168,9 @@ MonoBehaviour:
   brakeTorque: 30000
   wheelShape: {fileID: 1000012053017232, guid: 5df883237f1a04244b9a90ad4ee7b437, type: 3}
   criticalSpeed: 5
-  stepsBelow: 6
-  stepsAbove: 3
-  driveType: 0
+  stepsBelow: 4
+  stepsAbove: 2
+  driveType: 1
 --- !u!4 &144646701692233586
 Transform:
   m_ObjectHideFlags: 0
@@ -4847,7 +4847,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &3061833595276379581
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5230,7 +5230,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &4664025100996333857
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5608,7 +5608,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6118354237873738388
 Transform:
   m_ObjectHideFlags: 0
@@ -5713,7 +5713,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &6393818836251714986
 GameObject:
   m_ObjectHideFlags: 0
@@ -6325,7 +6325,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8271649644510809237
 Transform:
   m_ObjectHideFlags: 0
