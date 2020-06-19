@@ -4074,8 +4074,8 @@ MonoBehaviour:
   brakeTorque: 30000
   wheelShape: {fileID: 1000012053017232, guid: 5df883237f1a04244b9a90ad4ee7b437, type: 3}
   criticalSpeed: 5
-  stepsBelow: 8
-  stepsAbove: 4
+  stepsBelow: 6
+  stepsAbove: 3
   driveType: 0
 --- !u!4 &144646701692233586
 Transform:
